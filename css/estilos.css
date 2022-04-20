@@ -1,12 +1,7 @@
 body
 {
-<<<<<<< HEAD
-    color: red;
-    text-align: left;
-=======
-    color: #yellow;
+    color: #333;
     text-align: justify;
->>>>>>> cabecera2
     font-family: "Century Gothic";
     font-size: 16px;
     margin: 0;
